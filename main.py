@@ -30,7 +30,7 @@ session = requests.Session()
 
 # --- Zile active Aprilie ---
 active_dates = [
-   datetime(2026,4,27),datetime(2026,4,28),datetime(2026,4,29),datetime(2026,4,30),datetime(2026,5,1),datetime(2026,5,5),datetime(2026,5,7)
+   datetime(2026,6,3),datetime(2026,4,27),datetime(2026,4,28),datetime(2026,4,29),datetime(2026,4,30),datetime(2026,5,1),datetime(2026,5,5),datetime(2026,5,7)
 ]
 
 # --- C
